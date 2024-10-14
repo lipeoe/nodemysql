@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lipeoe/nodeemysqltest.git"
+    "url": "git+https://github.com/lipeoe/nodeemysqltest.git" 
   },
   "keywords": [
     "express",
